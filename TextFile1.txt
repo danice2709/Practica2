@@ -1,0 +1,5 @@
+What´s difference between Portable (CPL) and Shared (SAP) projects?
+In CPL it is created a library and SAP it is created a project.
+
+how many projects you have and why you need all?
+I have four projects because they are for different mobile plataforms 
